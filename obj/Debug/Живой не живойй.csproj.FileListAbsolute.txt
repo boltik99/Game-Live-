@@ -1,0 +1,15 @@
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\bin\Debug\Живой не живойй.exe.config
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\bin\Debug\Живой не живойй.exe
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\bin\Debug\Живой не живойй.pdb
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.csprojAssemblyReference.cache
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\MainWindow.g.cs
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\App.g.cs
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй_MarkupCompile.cache
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй_MarkupCompile.lref
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\MainWindow.baml
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.g.resources
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой_не_живойй.Properties.Resources.resources
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.csproj.GenerateResource.cache
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.csproj.CoreCompileInputs.cache
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.exe
+C:\Users\Булат\source\repos\Живой не живойй\Живой не живойй\obj\Debug\Живой не живойй.pdb
